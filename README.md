@@ -14,7 +14,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I’m 25 y.o. Frontend Developer. I like React and Vue. I building indie startup in public using React Native.
+I’m 25 y.o. Frontend Developer. I like React and Vue. Building an indie startup in public using React Native.
 
 - Sometimes authoring and blogging about technologies.
 
