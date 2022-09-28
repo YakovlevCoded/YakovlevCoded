@@ -20,9 +20,9 @@ I’m 25 y.o. Frontend Developer. I like React and Vue. Building an indie startu
 
 - Share knowledge through meetups and Twitter.
 
-- Co-author https://hacktoberfest.cube.dev/
-
 - Created https://awesome.cube.dev/ with Cube Dev
+
+- Co-author https://hacktoberfest.cube.dev/
 
 - Was maintainer of https://github.com/reactchartjs/react-chartjs-2
 
