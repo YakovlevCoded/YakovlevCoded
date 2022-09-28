@@ -14,12 +14,17 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
-- I’m working as a Senior IT consultant and building large scale web applications.
+I’m 25 y.o. Frontend Developer. I like React and Vue. I building indie startup in public using React Native.
 
-- Authoring and blogging about emerging technologies.
+- Sometimes authoring and blogging about technologies.
 
-- Share knowledge through meetups and twitter.
+- Share knowledge through meetups and Twitter.
+
+- Co-author https://hacktoberfest.com/
+
+- Created https://awesome.cube.dev/ with Cube Dev
+
+- Was maintainer of https://github.com/reactchartjs/react-chartjs-2
 
 ---
 
@@ -28,15 +33,10 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="=VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
@@ -49,4 +49,4 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <
 ---
 
 ### :writing_hand: Blog Posts :
-**WebSite:**[Dev.to](https://dev.to/leonid_frontend)
+[Dev.to](https://dev.to/leonid_frontend)
