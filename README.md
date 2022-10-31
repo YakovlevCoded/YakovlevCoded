@@ -29,7 +29,7 @@ I’m 25 y.o. Frontend Developer. I like React and Vue.
 
 - Co-author https://hacktoberfest.cube.dev/
 
-- Was maintainer of https://github.com/reactchartjs/react-chartjs-2
+- Contributor to https://github.com/reactchartjs/react-chartjs-2
 
 ---
 
