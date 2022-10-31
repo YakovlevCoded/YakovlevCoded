@@ -25,7 +25,7 @@ I’m 25 y.o. Frontend Developer. I like React and Vue.
 
 - I like WebGL staff: https://leonid-yakovlev-car-preview.netlify.app/
 
-- Created https://awesome.cube.dev/ with Cube Dev
+- Created https://awesome.cube.dev/
 
 - Co-author https://hacktoberfest.cube.dev/
 
