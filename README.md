@@ -17,7 +17,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I’m 25 y.o. Frontend Developer. I like React and Vue.
+I’m 26 y.o. Frontend Developer. I like React and Vue.
 
 - Sometimes authoring and blogging about technologies.
 
