@@ -14,17 +14,11 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I’m 26 y.o. Frontend Developer. I like React and Vue.
+I’m 28 y.o. Software Developer.
 
 - Sometimes authoring and blogging about technologies.
 
 - Share knowledge through meetups and Twitter.
-
-- I like WebGL staff: https://leonid-yakovlev-car-preview.netlify.app/
-
-- Created https://awesome.cube.dev/
-
-- Co-author https://hacktoberfest.cube.dev/
 
 - Contributor to https://github.com/reactchartjs/react-chartjs-2
 
