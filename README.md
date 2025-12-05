@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1> Hi 👋 I'm Leonid Yakovlev.</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%F0%9F%92%BB-leonid-yakovlev-%F0%9F%93%88-84a2191ab/">
+    <a href="https://www.linkedin.com/in/leonid-yakovlev-84a2191ab">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/Leonid_frontend">
