@@ -14,7 +14,7 @@
 ---
 
 ### 💻 &nbsp; About Me :
-I’m 28 y.o. Software Developer.
+I’m 29 y.o. Software Developer.
 
 - Sometimes authoring and blogging about technologies.
 
